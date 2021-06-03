@@ -135,5 +135,9 @@ export const LogoTypography = styled(Typography)`
 font-weight: 900;
 `;
 
+export const List = styled.ul`
+list-style-type:none;
+`;
+
 
 

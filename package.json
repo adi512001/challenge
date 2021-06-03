@@ -16,6 +16,7 @@
     "@types/react-redux": "^7.1.16",
     "@types/react-select": "^4.0.15",
     "@types/redux": "^3.6.0",
+    "material-ui-chip-input": "^2.0.0-beta.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-redux": "^7.2.4",
